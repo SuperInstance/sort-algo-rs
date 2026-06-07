@@ -1,0 +1,10 @@
+[package]
+name = "sort-algo-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Sorting algorithm implementations: quicksort (Lomuto + Hoare), mergesort, heapsort, timsort-inspired, counting sort, and radix sort"
+license = "MIT OR Apache-2.0"
+categories = ["algorithms", "data-structures"]
+keywords = ["sort", "quicksort", "mergesort", "heapsort", "radix"]
+repository = "https://github.com/SuperInstance/sort-algo-rs"
+readme = "README.md"
